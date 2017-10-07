@@ -4,10 +4,10 @@ A project for CS61B: The fundamentals to dynamic data structures, including line
 
 ## Table of contents
 
-- [A. Introduction]
-- [B. Client: Make]
-- [C. Client: Trip finder]
-- [D. The Graph Package]
+- [A. Introduction](introduction)
+- [B. Client: Make](client_make)
+- [C. Client: Trip finder](client_trip_finder)
+- [D. The Graph Package](the_graph_package)
 
 
 ## A. Introduction
